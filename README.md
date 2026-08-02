@@ -15,7 +15,7 @@
 <!-- ───────────────  TYPING SVG (LIVE ANIMATED TEXT)  ─────────────── -->
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=2800&pause=800&color=00F5FF&center=true&vCenter=true&multiline=false&width=700&height=70&lines=🚀+Full+Stack+Web+Developer;💻+MERN+%2F+Next.js+%2F+TypeScript+Enthusiast;🎨+Crafting+Pixel-Perfect+3D+Interfaces;☁️+Cloud+Native+%26+DevOps+Explorer;✨+Open+Source+Contributor" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=2800&pause=800&color=00F5FF&center=true&vCenter=true&multiline=false&width=700&height=70&lines=%F0%9F%9A%80+Full+Stack+Web+Developer;%F0%9F%92%BB+MERN+%2F+Next.js+%2F+TypeScript+Enthusiast;%F0%9F%8E%A8+Crafting+Pixel-Perfect+3D+Interfaces;%E2%98%81%EF%B8%8F+Cloud+Native+%26+DevOps+Explorer;%E2%9C%A8+Open+Source+Contributor" alt="Typing SVG" />
   </a>
 </div>
 
@@ -47,7 +47,7 @@ const developer: FullStackDev = {
   location:    "Surat,Gujarat",
   code:        ["TypeScript", "JavaScript", "Python"],
   frontend:    ["React", "Next.js", "Vue"],
-  backend:     ["Node.js", "Express", "NestJS", "FastAPI"],
+  backend:     ["Node.js", "Express"],
   database:    ["PostgreSQL", "MongoDB"],
   devops:      [ "Vercel"],
   currently:   "Building immersive 3D web experiences 🌌",
