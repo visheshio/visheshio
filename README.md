@@ -85,7 +85,7 @@ const developer: FullStackDev = {
 ---
 
 <!-- ═══════════════  3D TECH STACK  ═══════════════ -->
-## 🛠️ Tech Arsenal &nbsp;<sup>*(hover the icons — they're 3D!)*</sup>
+## 🛠️ Tech Arsenal &nbsp;
 
 <div align="center">
 
@@ -96,22 +96,22 @@ const developer: FullStackDev = {
 
 ### ⚙️ Backend
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,python,fastapi,go,graphql,prisma,socketio&perline=11" alt="Backend Skills" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,python,prisma,socketio&perline=11" alt="Backend Skills" />
 </p>
 
 ### 🗄️ Databases
 <p>
-  <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,redis,supabase,firebase&perline=11" alt="Databases" />
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,supabase,firebase&perline=11" alt="Databases" />
 </p>
 
 ### ☁️ DevOps & Cloud
 <p>
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,gcp,vercel,githubactions,nginx,linux,bash&perline=11" alt="DevOps" />
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,vercel,githubactions,linux,bash&perline=11" alt="DevOps" />
 </p>
 
 ### 🧰 Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vim,notion,discord&perline=11" alt="Tools" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman&perline=11" alt="Tools" />
 </p>
 
 </div>
