@@ -129,7 +129,6 @@ const developer: FullStackDev = {
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=visheshio&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=00f5ff&text_color=ffffff&langs_count=10" alt="Top Languages"/>
 </div>
-
 <br/>
 
 <!-- ═══════════════  3D CONTRIBUTION GRAPH  ═══════════════ -->
