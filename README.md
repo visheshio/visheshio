@@ -1,13 +1,3 @@
-<!-- ═══════════════════════════════════════════════════════════════════════════
-     ✨  BEAUTIFUL 3D INTERACTIVE GITHUB PROFILE README  ✨
-     Full Stack Web Developer
-     ─────────────────────────────────────────────────────────────────────
-     👉  Replace every occurrence of  visheshio  with your
-         actual GitHub username, then commit this file to a repo named
-         exactly the same as your username (e.g. github.com/jane/jane).
-     ═══════════════════════════════════════════════════════════════════════ -->
-
-<!-- ───────────────  ANIMATED HEADER WAVE  ─────────────── -->
 <a href="https://github.com/visheshio">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=260&section=header&text=Hey%20There%20👋%20I'm%20Vishesh%&fontSize=52&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Full%20Stack%20Web%20Developer%20%7C%20Turning%20Coffee%20into%20Code&descAlignY=60&descSize=18" />
 </a>
@@ -101,7 +91,7 @@ const developer: FullStackDev = {
 
 ### 🎨 Frontend
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vue,svelte,tailwind,threejs,figma&perline=11" alt="Frontend Skills" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vue,,tailwind,figma&perline=11" alt="Frontend Skills" />
 </p>
 
 ### ⚙️ Backend
