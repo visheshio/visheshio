@@ -91,12 +91,12 @@ const developer: FullStackDev = {
 
 ### 🎨 Frontend
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vue,,tailwind,figma&perline=11" alt="Frontend Skills" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vue,tailwind,figma&perline=11" alt="Frontend Skills" />
 </p>
 
 ### ⚙️ Backend
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,python,prisma,socketio&perline=11" alt="Backend Skills" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,python&perline=11" alt="Backend Skills" />
 </p>
 
 ### 🗄️ Databases
@@ -106,7 +106,7 @@ const developer: FullStackDev = {
 
 ### ☁️ DevOps & Cloud
 <p>
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,vercel,githubactions,linux,bash&perline=11" alt="DevOps" />
+  <img src="https://skillicons.dev/icons?i=vercel,githubactions,linux,bash&perline=11" alt="DevOps" />
 </p>
 
 ### 🧰 Tools
