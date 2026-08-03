@@ -48,9 +48,8 @@ const developer: FullStackDev = {
 
 </td>
  <td width="40%" align="center">
-  <img src="./assets/vishesh-visual-map.gif" width="100%" alt="VISUAL.MAP — Vishesh Maheshwari particle animation" style="border-radius: 12px;"/>
+  <img src="./assets/vishesh-visual-map.webp"width="100%"alt="VISUAL.MAP — Vishesh Maheshwari particle animation"style="border-radius: 12px;"/>
 </td>
-</tr>
 </table>
 
 ---
