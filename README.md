@@ -117,17 +117,14 @@ const developer: FullStackDev = {
 
 <!-- ═══════════════  ANIMATED GITHUB STATS  ═══════════════ -->
 ## 📊 GitHub Analytics &nbsp;<sup>*(auto-updating)*</sup>
-
 <div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=visheshio&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00f5ff&icon_color=ff00d4&text_color=ffffff" alt="GitHub Stats"/>
-  <img height="180" src="https://streak-stats.demolab.com/?user=visheshio&theme=radical&hide_border=true&background=0d1117&stroke=00f5ff&ring=ff00d4&fire=ffb400&currStreakLabel=00f5ff" alt="GitHub Streak"/>
+  <img height="180" src="./profile/stats.svg" alt="GitHub Stats"/>
+  <img height="180" src="./profile/streak.svg" alt="GitHub Streak"/>
 </div>
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=visheshio&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=00f5ff&text_color=ffffff&langs_count=10" alt="Top Languages"/>
+  <img src="./profile/top-langs.svg" alt="Top Languages"/>
 </div>
-<br/>
-
+<br>
 <!-- ═══════════════  3D CONTRIBUTION GRAPH  ═══════════════ -->
 ### 📈 Contribution Activity Graph
 <div align="center">
