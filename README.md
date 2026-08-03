@@ -47,10 +47,8 @@ const developer: FullStackDev = {
 ```
 
 </td>
-<td width="40%" align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="120" style="animation: spin 6s linear infinite;" alt="React 3D" />
-  <br/>
-  <img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="100%" alt="Coding Animation"/>
+ <td width="40%" align="center">
+  <img src="./assets/vishesh-visual-map.gif" width="100%" alt="VISUAL.MAP — Vishesh Maheshwari particle animation" style="border-radius: 12px;"/>
 </td>
 </tr>
 </table>
