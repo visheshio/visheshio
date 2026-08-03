@@ -13,7 +13,7 @@
 
 <!-- ───────────────  3D PROFILE STATS ROW  ─────────────── -->
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=visheshio&label=Profile%20Views&color=00f5ff&style=for-the-badge" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=visheshio&label=Profile%20Views&color=red&style=for-the-badge" alt="Profile Views" />
   <img src="https://img.shields.io/github/followers/visheshio?label=Followers&style=for-the-badge&color=blueviolet" alt="Followers" />
   <img src="https://img.shields.io/github/stars/visheshio?label=Total%20Stars&style=for-the-badge&color=ffb400" alt="Stars" />
   <a href="https://github.com/visheshio?tab=repositories">
