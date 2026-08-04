@@ -124,7 +124,7 @@ const developer: FullStackDev = {
 <div align="center">
   <img src="./profile/top-langs.svg" alt="Top Languages"/>
 </div>
-<br>
+
 <!-- ═══════════════  3D CONTRIBUTION GRAPH  ═══════════════ -->
 ### 📈 Contribution Activity Graph
 <div align="center">
