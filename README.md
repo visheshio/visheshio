@@ -135,48 +135,34 @@ const developer: FullStackDev = {
 
 <!-- ═══════════════  TROPHIES  ═══════════════ -->
 ## 🏆 GitHub Trophies
-
 <div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=visheshio&theme=radical&no-frame=true&no-bg=false&margin-w=8&row=2&column=4" alt="Trophies" />
+  <a href="https://github.com/visheshio">
+    <img src="./profile/trophy.svg" alt="Trophies" />
   </a>
 </div>
 
 ---
 
-<!-- ═══════════════  3D CONTRIBUTION SKYLINE  ═══════════════ -->
-## 🌆 3D Contribution Skyline
-
-<div align="center">
-  <p>
-    Check out your interactive 3D contribution skyline here:<br/>
-    <a href="https://skyline.github.com/visheshio/2024">
-      <img src="https://img.shields.io/badge/View%20My%203D%20Skyline-000000?style=for-the-badge&logo=github&logoColor=white" alt="3D Skyline" />
-    </a>
-  </p>
-</div>
-
----
 
 <!-- ═══════════════  FEATURED PROJECTS  ═══════════════ -->
 ## 🚀 Featured Projects
 
 <div align="center">
-  <a href="https://github.com/visheshio/PROJECT_ONE">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=visheshio&repo=PROJECT_ONE&theme=radical&hide_border=true&bg_color=0d1117&title_color=00f5ff&icon_color=ff00d4" />
+  <a href="https://github.com/visheshio/build-productivity-hub">
+    <img src="./profile/pin-project-one.svg" />
   </a>
-  <a href="https://github.com/visheshio/PROJECT_TWO">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=visheshio&repo=PROJECT_TWO&theme=radical&hide_border=true&bg_color=0d1117&title_color=00f5ff&icon_color=ff00d4" />
+  <a href="https://github.com/visheshio/trading-bot">
+    <img src="./profile/pin-project-two.svg" />
   </a>
 </div>
-
 <div align="center">
-  <a href="https://github.com/visheshio/PROJECT_THREE">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=visheshio&repo=PROJECT_THREE&theme=radical&hide_border=true&bg_color=0d1117&title_color=00f5ff&icon_color=ff00d4" />
+  <a href="https://github.com/visheshio/Spotifyclone">
+    <img src="./profile/pin-project-three.svg" />
   </a>
-  <a href="https://github.com/visheshio/PROJECT_FOUR">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=visheshio&repo=PROJECT_FOUR&theme=radical&hide_border=true&bg_color=0d1117&title_color=00f5ff&icon_color=ff00d4" />
+  <a href="https://github.com/visheshio/advanced-airbnb-clone">
+    <img src="./profile/pin-project-four.svg" />
   </a>
+  
 </div>
 
 ---
