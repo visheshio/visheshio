@@ -41,9 +41,14 @@ jobs:
         uses: Erik-Donath/github-profile-trophy@feature/generate-svg
         with:
           username: visheshio
-          output_path: profile/trophy.svg
+          file: profile/trophy.svg
+          theme: radical
+          max-cols: 4
+          max-rows: 2
+          margin-width: 8
+          no-frame: true
           token: ${{ secrets.GRS_TOKEN }}
-
+          
       - name: Generate pin card - PROJECT_ONE
         uses: readme-tools/github-readme-stats-action@v1
         with:
