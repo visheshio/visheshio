@@ -37,6 +37,45 @@ jobs:
           path: profile/streak.svg
           token: ${{ secrets.GRS_TOKEN }}
 
+      - name: Generate trophy
+        uses: Erik-Donath/github-profile-trophy@feature/generate-svg
+        with:
+          username: visheshio
+          output_path: profile/trophy.svg
+          token: ${{ secrets.GRS_TOKEN }}
+
+      - name: Generate pin card - PROJECT_ONE
+        uses: readme-tools/github-readme-stats-action@v1
+        with:
+          card: pin
+          options: username=visheshio&repo=build-productivity-hub&theme=radical&hide_border=true&bg_color=0d1117&title_color=00f5ff&icon_color=ff00d4
+          path: profile/pin-project-one.svg
+          token: ${{ secrets.GRS_TOKEN }}
+
+      - name: Generate pin card - PROJECT_TWO
+        uses: readme-tools/github-readme-stats-action@v1
+        with:
+          card: pin
+          options: username=visheshio&repo=trading-bot&theme=radical&hide_border=true&bg_color=0d1117&title_color=00f5ff&icon_color=ff00d4
+          path: profile/pin-project-two.svg
+          token: ${{ secrets.GRS_TOKEN }}
+
+      - name: Generate pin card - PROJECT_THREE
+        uses: readme-tools/github-readme-stats-action@v1
+        with:
+          card: pin
+          options: username=visheshio&repo=Spotifyclone&theme=radical&hide_border=true&bg_color=0d1117&title_color=00f5ff&icon_color=ff00d4
+          path: profile/pin-project-three.svg
+          token: ${{ secrets.GRS_TOKEN }}
+
+      - name: Generate pin card - PROJECT_FOUR
+        uses: readme-tools/github-readme-stats-action@v1
+        with:
+          card: pin
+          options: username=visheshio&repo=advanced-airbnb-clone&theme=radical&hide_border=true&bg_color=0d1117&title_color=00f5ff&icon_color=ff00d4
+          path: profile/pin-project-four.svg
+          token: ${{ secrets.GRS_TOKEN }}
+
       - name: Commit cards
         run: |
           git config user.name "github-actions[bot]"
