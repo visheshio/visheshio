@@ -1,8 +1,8 @@
 
       <svg
         width="400"
-        height="120"
-        viewBox="0 0 400 120"
+        height="150"
+        viewBox="0 0 400 150"
         fill="none"
         xmlns="http://www.w3.org/2000/svg"
         role="img"
@@ -100,16 +100,16 @@
     
 
     <text class="description" x="25" y="-5">
-      <tspan dy="1.2em" x="25">No description provided</tspan>
+      <tspan dy="1.2em" x="25">A modern, lightweight, and responsive Spotify Web Player</tspan><tspan dy="1.2em" x="25">Clone engineered using pure Vanilla HTML5, CSS3, and</tspan><tspan dy="1.2em" x="25">JavaScript (ES6+). This project replicates the iconic...</tspan>
     </text>
 
-    <g transform="translate(30, 45)">
+    <g transform="translate(30, 75)">
       <g transform="translate(0, 0)">
     <g data-testid="primary-lang">
-      <circle data-testid="lang-color" cx="0" cy="-5" r="6" fill="#663399" />
-      <text data-testid="lang-name" class="gray" x="15">CSS</text>
+      <circle data-testid="lang-color" cx="0" cy="-5" r="6" fill="#f1e05a" />
+      <text data-testid="lang-name" class="gray" x="15">JavaScript</text>
     </g>
-    </g><g transform="translate(49.6375, 0)"><g transform="translate(0, 0)">
+    </g><g transform="translate(80.93125, 0)"><g transform="translate(0, 0)">
       <svg
         class="icon"
         y="-12"
