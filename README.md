@@ -191,10 +191,10 @@ const developer: FullStackDev = {
   <a href="https://YOUR_PORTFOLIO.com">
     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
   </a>
-  <a href="https://dev.to/YOUR_DEVTO">
+  <a href="https://dev.to/visheshio">
     <img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="Dev.to"/>
   </a>
-  <a href="https://discord.com/users/YOUR_DISCORD">
+  <a href="https://discord.com/users/visheshio">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
   </a>
 </div>
@@ -205,9 +205,7 @@ const developer: FullStackDev = {
 <div align="center">
 
 ### ☕ Support My Open Source Work
-<a href="https://buymeacoffee.com/YOUR_HANDLE">
-  <img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" />
-</a>
+
 <a href="https://github.com/sponsors/visheshio">
   <img src="https://img.shields.io/badge/Sponsor%20on%20GitHub-EA4AAA?style=for-the-badge&logo=github-sponsors&logoColor=white" />
 </a>
