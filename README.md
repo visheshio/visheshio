@@ -2,7 +2,6 @@
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=260&section=header&text=Hey%20There%20👋%20I'm%20Vishesh%&fontSize=52&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Full%20Stack%20Web%20Developer%20%7C%20Turning%20Coffee%20into%20Code&descAlignY=60&descSize=18" />
 </a>
 
-<!-- ───────────────  TYPING SVG (LIVE ANIMATED TEXT)  ─────────────── -->
 <div align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=2800&pause=800&color=00F5FF&center=true&vCenter=true&multiline=false&width=700&height=70&lines=%F0%9F%9A%80+Full+Stack+Web+Developer;%F0%9F%92%BB+MERN+%2F+Next.js+%2F+TypeScript+Enthusiast;%F0%9F%8E%A8+Crafting+Pixel-Perfect+3D+Interfaces;%E2%98%81%EF%B8%8F+Cloud+Native+%26+DevOps+Explorer;%E2%9C%A8+Open+Source+Contributor" alt="Typing SVG" />
