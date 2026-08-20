@@ -10,7 +10,6 @@
 
 <br/>
 
-<!-- ───────────────  3D PROFILE STATS ROW  ─────────────── -->
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=visheshio&label=Profile%20Views&color=red&style=for-the-badge" alt="Profile Views" />
   <img src="https://img.shields.io/github/followers/visheshio?label=Followers&style=for-the-badge&color=blueviolet" alt="Followers" />
