@@ -21,7 +21,7 @@
 
 <br/>
 
-<!-- ───────────────  ABOUT ME  •  3D DEV ILLUSTRATION  ─────────────── -->
+
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> &nbsp;About Me
 
 <table>
