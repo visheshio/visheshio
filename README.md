@@ -199,7 +199,7 @@ const developer: FullStackDev = {
 
 ---
 
-<!-- ═══════════════  FUN SUPPORT ROW  ═══════════════ -->
+
 <div align="center">
 
 ### ☕ Support My Open Source Work
