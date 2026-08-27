@@ -126,7 +126,7 @@ const developer: FullStackDev = {
 <!-- ═══════════════  3D CONTRIBUTION GRAPH  ═══════════════ -->
 ### 📈 Contribution Activity Graph
 <div align="center">
-  <img src="https://git-readme-activity-graph-git-main-visheshs-projects-0801f6b8.vercel.app/graph?username=visheshio&bg_color=0d1117&color=00f5ff&line=ff00d4&point=ffffff&area=true&area_color=00f5ff&hide_border=true&custom_title=🚀%20My%20Contribution%20Universe" alt="Activity Graph" />
+  <img src="https://git-readme-activity-graph.vercel.app/graph?username=visheshio&bg_color=0d1117&color=00f5ff&line=ff00d4&point=ffffff&area=true&area_color=00f5ff&hide_border=true&custom_title=🚀%20My%20Contribution%20Universe" alt="Activity Graph" />
 </div>
 
 ---
