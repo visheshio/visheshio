@@ -52,7 +52,6 @@ const developer: FullStackDev = {
 
 ---
 
-<!-- ═══════════════  SNAKE EATING CONTRIBUTIONS  ═══════════════ -->
 ## 🐍 Watch My Contributions Get Eaten!
 
 <div align="center">
