@@ -163,6 +163,47 @@ const developer: FullStackDev = {
 </div>
 
 ---
+<table>
+  <tr>
+    <td width="55%">
+      <a href="https://build-productivity-hub.vercel.app/" target="_blank">
+        <img src="./profile/productivity-hub-preview.png" width="100%" alt="Productivity Hub"/>
+      </a>
+    </td>
+    <td valign="middle">
+      <h3>🧠 Productivity Hub</h3>
+      <p>Click to experience the web app.</p>
+    </td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td valign="middle">
+      <h3>⚡ Trading Bot</h3>
+      <p>Click to explore the workflow builder.</p>
+    </td>
+    <td width="55%">
+      <a href="https://trading-n8n-monorepo.vercel.app/" target="_blank">
+        <img src="./profile/trading-bot-preview.png" width="100%" alt="Trading Bot"/>
+      </a>
+    </td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td width="55%">
+      <a href="https://advanced-airbnb-clone.vercel.app/" target="_blank">
+        <img src="./profile/airbnb-clone-preview.png" width="100%" alt="Airbnb Clone"/>
+      </a>
+    </td>
+    <td valign="middle">
+      <h3>🏡 Airbnb Clone</h3>
+      <p>Click to browse the stays.</p>
+    </td>
+  </tr>
+</table>
 
 <!-- ═══════════════  DEV QUOTE  ═══════════════ -->
 ## 💭 Dev Quote of the Day
