@@ -78,7 +78,6 @@ const developer: FullStackDev = {
 
 ---
 
-<!-- ═══════════════  3D TECH STACK  ═══════════════ -->
 ## 🛠️ Tech Arsenal &nbsp;
 
 <div align="center">
