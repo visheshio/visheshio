@@ -129,7 +129,6 @@ const developer: FullStackDev = {
 
 ---
 
-<!-- ═══════════════  TROPHIES  ═══════════════ -->
 ## 🏆 GitHub Trophies
 <div align="center">
   <a href="https://github.com/visheshio">
