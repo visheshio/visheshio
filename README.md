@@ -139,7 +139,7 @@ const developer: FullStackDev = {
 ---
 
 
-<!-- ═══════════════  FEATURED PROJECTS  ═══════════════ -->
+
 ## 🚀 Featured Projects
 
 <div align="center">
