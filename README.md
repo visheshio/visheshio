@@ -111,7 +111,7 @@ const developer: FullStackDev = {
 
 ---
 
-<!-- ═══════════════  ANIMATED GITHUB STATS  ═══════════════ -->
+
 ## 📊 GitHub Analytics &nbsp;<sup>*(auto-updating)*</sup>
 <div align="center">
   <img height="180" src="./profile/stats.svg" alt="GitHub Stats"/>
