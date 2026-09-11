@@ -224,7 +224,7 @@ const developer: FullStackDev = {
   <a href="mailto:maheshwarivishesh17@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
-  <a href="https://YOUR_PORTFOLIO.com">
+  <a href="https://visheshio.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
   </a>
   <a href="https://dev.to/visheshio">
