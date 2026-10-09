@@ -1,4 +1,4 @@
-<!-- ═══════════════  HEADER  ═══════════════ -->
+
 <a href="https://github.com/visheshio">
   <img width="100%" alt="Vishesh Maheshwari — Full Stack Web Developer" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=260&section=header&text=Vishesh%20Maheshwari&fontSize=52&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Full%20Stack%20Web%20Developer%20%7C%20Turning%20Coffee%20into%20Code&descAlignY=60&descSize=18" />
 </a>
