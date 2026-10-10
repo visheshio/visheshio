@@ -61,50 +61,45 @@
 <!-- ══════════════════════════════════════════════════════════════════════════════ -->
 
 <h2 id="-about-vishesh">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" width="10" height="10" alt="About" valign="middle"/>
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" width="30" height="30" alt="About" valign="middle"/>
   &nbsp;Developer Telemetry & Creative Canvas
 </h2>
 
-<!-- PROMINENT, LARGE ANIMATION SHOWCASE (No More Tiny Table Shrinking) -->
-<div align="center">
-  <a href="https://visheshio.vercel.app/" target="_blank">
-    <img src="./assets/vishesh-visual-map.webp" width="620" style="border-radius: 16px; max-width: 100%; border: 1px solid #334155; box-shadow: 0 16px 50px rgba(0, 0, 0, 0.7);" alt="VISUAL.MAP — Generative particle network by Vishesh Maheshwari" />
-  </a>
-  <br/>
-  <sub><b>🌌 VISUAL.MAP</b> — Generative Particle Canvas & Interactive Simulation by Vishesh</sub>
-</div>
-
-<br/>
+<table width="100%">
+<tr>
+<td width="52%" valign="top">
 
 ```typescript
 /**
  * @file: vishesh.config.ts
- * @author: Vishesh Maheshwari <maheshwarivishesh17@gmail.com>
- * @status: Hyper-Focused & Continuously Shipping 🚀
+ * @author: Vishesh Maheshwari
+ * @status: Hyper-Focused & Shipping 🚀
  */
 
-export const developer: FullStackArchitect = {
-  identity: {
-    handle:       "visheshio",
-    name:         "Vishesh Maheshwari",
-    coordinates:  "Surat, Gujarat, IN 🇮🇳",
-    languages:    ["TypeScript", "JavaScript", "Python", "SQL"],
-  },
-  specialization: {
-    core:         "Full-Stack Web Engineering & Scalable Systems",
-    frontend:     ["Next.js 15", "React 19", "Vue.js", "Tailwind CSS"],
-    backend:      ["Node.js", "Express.js", "REST / tRPC", "GraphQL"],
-    persistence:  ["PostgreSQL", "Supabase", "MongoDB", "MySQL", "Prisma"],
-    infraDevOps:  ["Vercel", "GitHub Actions", "Docker", "Linux"],
-  },
-  currentFocus: {
-    researching:  "Real-Time 3D WebGL / Three.js Canvas & Generative AI UIs 🌌",
-    status:       "Building mission-critical apps with zero latency & high craft",
-    openFor:      ["High-Impact Roles", "Technical Co-founding", "OSS Innovations"],
-  },
-  creed: () => "First solve the architecture; then write bulletproof code."
-};
+export const developer = {
+  handle:       "visheshio",
+  name:         "Vishesh Maheshwari",
+  location:     "Surat, Gujarat, IN 🇮🇳",
+  languages:    ["TypeScript", "JavaScript", "Python"],
+  frontend:     ["Next.js", "React", "Vue", "Tailwind"],
+  backend:      ["Node.js", "Express", "REST", "GraphQL"],
+  databases:    ["PostgreSQL", "Supabase", "MongoDB"],
+  devops:       ["Vercel", "GitHub Actions", "Docker"],
+  currently:    "Real-Time 3D WebGL & AI-driven UIs 🌌",
+  motto:        "First solve architecture, then write code."
+} as const;
 ```
+
+</td>
+<td width="48%" align="center" valign="middle">
+  <a href="https://visheshio.vercel.app/" target="_blank">
+    <img src="./assets/vishesh-visual-map.webp" width="100%" style="border-radius: 12px; max-width: 460px; box-shadow: 0 12px 35px rgba(0, 0, 0, 0.6); border: 1px solid #334155;" alt="VISUAL.MAP — Generative particle network by Vishesh Maheshwari" />
+  </a>
+  <br/><br/>
+  <sub><b>🌌 VISUAL.MAP</b> — Generative Particle Canvas by Vishesh</sub>
+</td>
+</tr>
+</table>
 
 <br/>
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3" alt="Glow Separator" />
