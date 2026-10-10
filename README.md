@@ -12,7 +12,7 @@
 <br/>
 
 <div align="center">
-<img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fvisheshio&count_bg=%23E05D44&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Profile+Views&edge_flat=false" alt="Profile views" />
+<img src="https://hits.sh/github.com/visheshio.svg?style=for-the-badge&label=Profile%20Views&color=E05D44" alt="Profile views" />
   <img src="https://img.shields.io/github/followers/visheshio?label=Followers&style=for-the-badge&color=blueviolet" alt="GitHub followers" />
   <a href="https://visheshio.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-visheshio.vercel.app-FF5722?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
