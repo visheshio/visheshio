@@ -257,7 +257,7 @@ export const vishesh = {
 
 <p align="center">
   <a href="https://github.com/visheshio">
-    <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=visheshio&bg_color=08090a&color=8b5cf6&line=ec4899&point=ffffff&area=true&area_color=8b5cf6&hide_border=true&custom_title=Contribution%20Activity" alt="Contribution activity graph" />
+    <img width="98%" src="https://raw.githubusercontent.com/visheshio/visheshio/activity-graph/activity-graph.svg" alt="Contribution activity graph" />
   </a>
 </p>
 
