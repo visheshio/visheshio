@@ -3,7 +3,7 @@
 <div align="center">
 
 <!-- Hero -->
-<a href="https://visheshio.vercel.app/">
+<a href="https://visheshio.runs-on.dev/">
   <img width="100%" alt="Vishesh Maheshwari — Full-Stack Developer & Creative Technologist" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=270&section=header&text=Vishesh%20Maheshwari&fontSize=54&fontColor=ffffff&fontAlignY=36&animation=twinkling&desc=Full-Stack%20Developer%20%E2%80%A2%20Creative%20Technologist%20%E2%80%A2%20Turning%20Coffee%20into%20Code&descAlignY=58&descSize=18&descColor=f1f5f9" />
 </a>
 
@@ -20,8 +20,8 @@
   <img src="https://img.shields.io/github/followers/visheshio?label=FOLLOWERS&style=for-the-badge&color=8b5cf6&labelColor=08090a&logo=github" alt="GitHub followers" />
 </a>
 <img src="https://hits.sh/github.com/visheshio.svg?style=for-the-badge&label=PROFILE%20VIEWS&color=ec4899&labelColor=08090a" alt="Profile views" />
-<a href="https://visheshio.vercel.app/">
-  <img src="https://img.shields.io/badge/PORTFOLIO-visheshio.vercel.app-a855f7?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=08090a" alt="Portfolio" />
+<a href="https://visheshio.runs-on.dev/">
+  <img src="https://img.shields.io/badge/PORTFOLIO-visheshio.runs--on.dev-a855f7?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=08090a" alt="Portfolio" />
 </a>
 
 <br/><br/>
@@ -77,7 +77,7 @@ export const vishesh = {
 
 </td>
 <td width="45%" align="center" valign="middle">
-  <a href="https://visheshio.vercel.app/" target="_blank">
+  <a href="https://visheshio.runs-on.dev/" target="_blank">
     <img src="./assets/vishesh-visual-map.webp" width="100%" alt="VISUAL.MAP — generative particle network by Vishesh Maheshwari" />
   </a>
   <br/>
@@ -290,7 +290,7 @@ export const vishesh = {
 </p>
 
 <p align="center">
-  <a href="https://visheshio.vercel.app/"><img src="https://img.shields.io/badge/PORTFOLIO-FF5722?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=08090a" alt="Portfolio" /></a>
+  <a href="https://visheshio.runs-on.dev/"><img src="https://img.shields.io/badge/PORTFOLIO-FF5722?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=08090a" alt="Portfolio" /></a>
   <a href="https://linkedin.com/in/visheshio"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=08090a" alt="LinkedIn" /></a>
   <a href="https://twitter.com/Visheshio"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white&labelColor=08090a" alt="X (Twitter)" /></a>
   <a href="mailto:maheshwarivishesh17@gmail.com"><img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=08090a" alt="Email" /></a>
@@ -317,7 +317,7 @@ export const vishesh = {
 
 <!-- ───────────────────────────── FOOTER ───────────────────────────── -->
 
-<a href="https://visheshio.vercel.app/">
+<a href="https://visheshio.runs-on.dev/">
   <img width="100%" alt="Thanks for stopping by" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&text=Thanks%20for%20Stopping%20By%20%E2%9C%A8&fontSize=26&fontColor=ffffff&fontAlignY=65&desc=Built%20with%20care%20%E2%80%A2%20Obsessed%20with%20performance&descAlignY=82&descSize=14&descColor=f1f5f9" />
 </a>
 
