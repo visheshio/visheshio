@@ -3,7 +3,7 @@
 
 <div align="center">
 
-<!-- Hero -->
+
 <a href="https://visheshio.runs-on.dev/">
   <img width="100%" alt="Vishesh Maheshwari — Full-Stack Developer & Creative Technologist" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=270&section=header&text=Vishesh%20Maheshwari&fontSize=54&fontColor=ffffff&fontAlignY=36&animation=twinkling&desc=Full-Stack%20Developer%20%E2%80%A2%20Creative%20Technologist%20%E2%80%A2%20Turning%20Coffee%20into%20Code&descAlignY=58&descSize=18&descColor=f1f5f9" />
 </a>
