@@ -238,29 +238,21 @@ export const vishesh = {
 <!-- ───────────────────────────── ACTIVITY ─────────────────────────── -->
 
 <a id="activity"></a>
-<h2 align="center">📊 GitHub Activity</h2>
-<p align="center"><sub>Live stats pulled from the GitHub API.</sub></p>
+## 📊 GitHub Activity
+Live stats pulled from the GitHub API.
 
 <p align="center">
   <a href="https://github.com/visheshio">
-    <img height="195" src="https://github-readme-stats.vercel.app/api?username=visheshio&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub stats" />
+    <img src="https://raw.githubusercontent.com/visheshio/visheshio/main/profile/top-langs.svg" alt="Top languages" />
   </a>
   <a href="https://github.com/visheshio">
-    <img height="195" src="https://streak-stats.demolab.com/?user=visheshio&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub streak stats" />
+    <img height="195" src="https://raw.githubusercontent.com/visheshio/visheshio/main/profile/stats.svg" alt="GitHub stats" />
+  </a>
+  <a href="https://github.com/visheshio">
+    <img height="195" src="https://raw.githubusercontent.com/visheshio/visheshio/main/profile/streak.svg" alt="GitHub streak stats" />
   </a>
 </p>
 
-<p align="center">
-  <a href="https://github.com/visheshio">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=visheshio&layout=compact&theme=tokyonight&hide_border=true&border_radius=10&langs_count=8" alt="Top languages" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/visheshio">
-    <img width="98%" src="https://raw.githubusercontent.com/visheshio/visheshio/activity-graph/activity-graph.svg" alt="Contribution activity graph" />
-  </a>
-</p>
 
 <h3 align="center">🐍 Contribution Snake</h3>
 <p align="center">
