@@ -245,9 +245,11 @@ Live stats pulled from the GitHub API.
   <a href="https://github.com/visheshio">
     <img src="https://raw.githubusercontent.com/visheshio/visheshio/main/profile/top-langs.svg" alt="Top languages" />
   </a>
+  <br>
   <a href="https://github.com/visheshio">
     <img height="195" src="https://raw.githubusercontent.com/visheshio/visheshio/main/profile/stats.svg" alt="GitHub stats" />
   </a>
+  <br>
   <a href="https://github.com/visheshio">
     <img height="195" src="https://raw.githubusercontent.com/visheshio/visheshio/main/profile/streak.svg" alt="GitHub streak stats" />
   </a>
